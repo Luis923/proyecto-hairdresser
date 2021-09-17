@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/proyecto-hairdresser/static/css/main.f7d7567a.chunk.css",
-    "main.js": "/proyecto-hairdresser/static/js/main.fbc82730.chunk.js",
-    "main.js.map": "/proyecto-hairdresser/static/js/main.fbc82730.chunk.js.map",
+    "main.js": "/proyecto-hairdresser/static/js/main.fd08b7c2.chunk.js",
+    "main.js.map": "/proyecto-hairdresser/static/js/main.fd08b7c2.chunk.js.map",
     "runtime-main.js": "/proyecto-hairdresser/static/js/runtime-main.dad66e3e.js",
     "runtime-main.js.map": "/proyecto-hairdresser/static/js/runtime-main.dad66e3e.js.map",
     "static/css/2.818011ed.chunk.css": "/proyecto-hairdresser/static/css/2.818011ed.chunk.css",
@@ -14,19 +14,19 @@
     "static/css/2.818011ed.chunk.css.map": "/proyecto-hairdresser/static/css/2.818011ed.chunk.css.map",
     "static/css/main.f7d7567a.chunk.css.map": "/proyecto-hairdresser/static/css/main.f7d7567a.chunk.css.map",
     "static/js/2.942fb848.chunk.js.LICENSE.txt": "/proyecto-hairdresser/static/js/2.942fb848.chunk.js.LICENSE.txt",
-    "static/media/mainImage1.7e99ad4e.jpg": "/proyecto-hairdresser/static/media/mainImage1.7e99ad4e.jpg",
-    "static/media/mainImage2.d4af85d7.jpg": "/proyecto-hairdresser/static/media/mainImage2.d4af85d7.jpg",
-    "static/media/mainImage3.2f321b8d.jpg": "/proyecto-hairdresser/static/media/mainImage3.2f321b8d.jpg",
-    "static/media/welcomeImage1.cf4d8432.png": "/proyecto-hairdresser/static/media/welcomeImage1.cf4d8432.png",
-    "static/media/welcomeImage2.eb63f5b8.png": "/proyecto-hairdresser/static/media/welcomeImage2.eb63f5b8.png",
-    "static/media/welcomeImage3.59101f8b.png": "/proyecto-hairdresser/static/media/welcomeImage3.59101f8b.png",
-    "static/media/welcomeImage4.f7b54447.png": "/proyecto-hairdresser/static/media/welcomeImage4.f7b54447.png"
+    "static/media/mainImage1.551c9ed8.webp": "/proyecto-hairdresser/static/media/mainImage1.551c9ed8.webp",
+    "static/media/mainImage2.45c5d6ea.webp": "/proyecto-hairdresser/static/media/mainImage2.45c5d6ea.webp",
+    "static/media/mainImage3.ec85c649.webp": "/proyecto-hairdresser/static/media/mainImage3.ec85c649.webp",
+    "static/media/welcomeImage1.0c9caeed.webp": "/proyecto-hairdresser/static/media/welcomeImage1.0c9caeed.webp",
+    "static/media/welcomeImage2.96efaf5f.webp": "/proyecto-hairdresser/static/media/welcomeImage2.96efaf5f.webp",
+    "static/media/welcomeImage3.92201393.webp": "/proyecto-hairdresser/static/media/welcomeImage3.92201393.webp",
+    "static/media/welcomeImage4.61d6f8ea.webp": "/proyecto-hairdresser/static/media/welcomeImage4.61d6f8ea.webp"
   },
   "entrypoints": [
     "static/js/runtime-main.dad66e3e.js",
     "static/css/2.818011ed.chunk.css",
     "static/js/2.942fb848.chunk.js",
     "static/css/main.f7d7567a.chunk.css",
-    "static/js/main.fbc82730.chunk.js"
+    "static/js/main.fd08b7c2.chunk.js"
   ]
 }
