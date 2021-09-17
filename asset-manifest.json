@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/proyecto-hairdresser/static/css/main.671df9d3.chunk.css",
-    "main.js": "/proyecto-hairdresser/static/js/main.21b63880.chunk.js",
-    "main.js.map": "/proyecto-hairdresser/static/js/main.21b63880.chunk.js.map",
+    "main.js": "/proyecto-hairdresser/static/js/main.81a59b0b.chunk.js",
+    "main.js.map": "/proyecto-hairdresser/static/js/main.81a59b0b.chunk.js.map",
     "runtime-main.js": "/proyecto-hairdresser/static/js/runtime-main.1d047771.js",
     "runtime-main.js.map": "/proyecto-hairdresser/static/js/runtime-main.1d047771.js.map",
     "static/css/2.818011ed.chunk.css": "/proyecto-hairdresser/static/css/2.818011ed.chunk.css",
@@ -15,7 +15,7 @@
     "static/css/main.671df9d3.chunk.css.map": "/proyecto-hairdresser/static/css/main.671df9d3.chunk.css.map",
     "static/js/2.0110fc9e.chunk.js.LICENSE.txt": "/proyecto-hairdresser/static/js/2.0110fc9e.chunk.js.LICENSE.txt",
     "static/media/mainImage1.551c9ed8.webp": "/proyecto-hairdresser/static/media/mainImage1.551c9ed8.webp",
-    "static/media/mainImage2.45c5d6ea.webp": "/proyecto-hairdresser/static/media/mainImage2.45c5d6ea.webp",
+    "static/media/mainImage2.e6ad1494.webp": "/proyecto-hairdresser/static/media/mainImage2.e6ad1494.webp",
     "static/media/mainImage3.ec85c649.webp": "/proyecto-hairdresser/static/media/mainImage3.ec85c649.webp",
     "static/media/map.e1db5317.webp": "/proyecto-hairdresser/static/media/map.e1db5317.webp",
     "static/media/welcomeImage1.0c9caeed.webp": "/proyecto-hairdresser/static/media/welcomeImage1.0c9caeed.webp",
@@ -28,6 +28,6 @@
     "static/css/2.818011ed.chunk.css",
     "static/js/2.0110fc9e.chunk.js",
     "static/css/main.671df9d3.chunk.css",
-    "static/js/main.21b63880.chunk.js"
+    "static/js/main.81a59b0b.chunk.js"
   ]
 }
