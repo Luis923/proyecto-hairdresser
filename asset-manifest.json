@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/proyecto-hairdresser/static/css/main.671df9d3.chunk.css",
-    "main.js": "/proyecto-hairdresser/static/js/main.9a3a826e.chunk.js",
-    "main.js.map": "/proyecto-hairdresser/static/js/main.9a3a826e.chunk.js.map",
-    "runtime-main.js": "/proyecto-hairdresser/static/js/runtime-main.92fd49b6.js",
-    "runtime-main.js.map": "/proyecto-hairdresser/static/js/runtime-main.92fd49b6.js.map",
-    "static/js/2.d21fe77b.chunk.js": "/proyecto-hairdresser/static/js/2.d21fe77b.chunk.js",
-    "static/js/2.d21fe77b.chunk.js.map": "/proyecto-hairdresser/static/js/2.d21fe77b.chunk.js.map",
-    "static/js/3.d96d18ee.chunk.js": "/proyecto-hairdresser/static/js/3.d96d18ee.chunk.js",
-    "static/js/3.d96d18ee.chunk.js.map": "/proyecto-hairdresser/static/js/3.d96d18ee.chunk.js.map",
+    "main.css": "/proyecto-hairdresser/static/css/main.0532c53f.chunk.css",
+    "main.js": "/proyecto-hairdresser/static/js/main.c605c4d4.chunk.js",
+    "main.js.map": "/proyecto-hairdresser/static/js/main.c605c4d4.chunk.js.map",
+    "runtime-main.js": "/proyecto-hairdresser/static/js/runtime-main.ef558d06.js",
+    "runtime-main.js.map": "/proyecto-hairdresser/static/js/runtime-main.ef558d06.js.map",
+    "static/js/2.ffbf32f6.chunk.js": "/proyecto-hairdresser/static/js/2.ffbf32f6.chunk.js",
+    "static/js/2.ffbf32f6.chunk.js.map": "/proyecto-hairdresser/static/js/2.ffbf32f6.chunk.js.map",
+    "static/js/3.592c4a7b.chunk.js": "/proyecto-hairdresser/static/js/3.592c4a7b.chunk.js",
+    "static/js/3.592c4a7b.chunk.js.map": "/proyecto-hairdresser/static/js/3.592c4a7b.chunk.js.map",
     "index.html": "/proyecto-hairdresser/index.html",
-    "static/css/main.671df9d3.chunk.css.map": "/proyecto-hairdresser/static/css/main.671df9d3.chunk.css.map",
-    "static/js/2.d21fe77b.chunk.js.LICENSE.txt": "/proyecto-hairdresser/static/js/2.d21fe77b.chunk.js.LICENSE.txt",
+    "static/css/main.0532c53f.chunk.css.map": "/proyecto-hairdresser/static/css/main.0532c53f.chunk.css.map",
+    "static/js/2.ffbf32f6.chunk.js.LICENSE.txt": "/proyecto-hairdresser/static/js/2.ffbf32f6.chunk.js.LICENSE.txt",
     "static/media/mainImage1.551c9ed8.webp": "/proyecto-hairdresser/static/media/mainImage1.551c9ed8.webp",
     "static/media/mainImage2.e6ad1494.webp": "/proyecto-hairdresser/static/media/mainImage2.e6ad1494.webp",
     "static/media/mainImage3.ec85c649.webp": "/proyecto-hairdresser/static/media/mainImage3.ec85c649.webp",
@@ -22,9 +22,9 @@
     "static/media/welcomeImage4.61d6f8ea.webp": "/proyecto-hairdresser/static/media/welcomeImage4.61d6f8ea.webp"
   },
   "entrypoints": [
-    "static/js/runtime-main.92fd49b6.js",
-    "static/js/2.d21fe77b.chunk.js",
-    "static/css/main.671df9d3.chunk.css",
-    "static/js/main.9a3a826e.chunk.js"
+    "static/js/runtime-main.ef558d06.js",
+    "static/js/2.ffbf32f6.chunk.js",
+    "static/css/main.0532c53f.chunk.css",
+    "static/js/main.c605c4d4.chunk.js"
   ]
 }
