@@ -1,10 +1,10 @@
 {
   "files": {
     "main.css": "/proyecto-hairdresser/static/css/main.434ac450.chunk.css",
-    "main.js": "/proyecto-hairdresser/static/js/main.c7b69d12.chunk.js",
-    "main.js.map": "/proyecto-hairdresser/static/js/main.c7b69d12.chunk.js.map",
-    "runtime-main.js": "/proyecto-hairdresser/static/js/runtime-main.5da06236.js",
-    "runtime-main.js.map": "/proyecto-hairdresser/static/js/runtime-main.5da06236.js.map",
+    "main.js": "/proyecto-hairdresser/static/js/main.bd7b2f5b.chunk.js",
+    "main.js.map": "/proyecto-hairdresser/static/js/main.bd7b2f5b.chunk.js.map",
+    "runtime-main.js": "/proyecto-hairdresser/static/js/runtime-main.1cbdb1de.js",
+    "runtime-main.js.map": "/proyecto-hairdresser/static/js/runtime-main.1cbdb1de.js.map",
     "static/js/2.84f65f5c.chunk.js": "/proyecto-hairdresser/static/js/2.84f65f5c.chunk.js",
     "static/js/2.84f65f5c.chunk.js.map": "/proyecto-hairdresser/static/js/2.84f65f5c.chunk.js.map",
     "static/css/3.50d13495.chunk.css": "/proyecto-hairdresser/static/css/3.50d13495.chunk.css",
@@ -26,8 +26,6 @@
     "static/js/8.01a1bedd.chunk.js.map": "/proyecto-hairdresser/static/js/8.01a1bedd.chunk.js.map",
     "static/js/9.69a6d673.chunk.js": "/proyecto-hairdresser/static/js/9.69a6d673.chunk.js",
     "static/js/9.69a6d673.chunk.js.map": "/proyecto-hairdresser/static/js/9.69a6d673.chunk.js.map",
-    "static/js/10.c47fc4bd.chunk.js": "/proyecto-hairdresser/static/js/10.c47fc4bd.chunk.js",
-    "static/js/10.c47fc4bd.chunk.js.map": "/proyecto-hairdresser/static/js/10.c47fc4bd.chunk.js.map",
     "index.html": "/proyecto-hairdresser/index.html",
     "static/css/3.50d13495.chunk.css.map": "/proyecto-hairdresser/static/css/3.50d13495.chunk.css.map",
     "static/css/4.82114a12.chunk.css.map": "/proyecto-hairdresser/static/css/4.82114a12.chunk.css.map",
@@ -43,16 +41,16 @@
     "static/media/mainImage2Movil.89190980.webp": "/proyecto-hairdresser/static/media/mainImage2Movil.89190980.webp",
     "static/media/mainImage3.ec85c649.webp": "/proyecto-hairdresser/static/media/mainImage3.ec85c649.webp",
     "static/media/mainImage3Movil.c769d58d.webp": "/proyecto-hairdresser/static/media/mainImage3Movil.c769d58d.webp",
-    "static/media/map.webp": "/proyecto-hairdresser/static/media/map.e1db5317.webp",
+    "static/media/map.e1db5317.webp": "/proyecto-hairdresser/static/media/map.e1db5317.webp",
     "static/media/welcomeImage1.0c9caeed.webp": "/proyecto-hairdresser/static/media/welcomeImage1.0c9caeed.webp",
     "static/media/welcomeImage2.96efaf5f.webp": "/proyecto-hairdresser/static/media/welcomeImage2.96efaf5f.webp",
     "static/media/welcomeImage3.92201393.webp": "/proyecto-hairdresser/static/media/welcomeImage3.92201393.webp",
     "static/media/welcomeImage4.61d6f8ea.webp": "/proyecto-hairdresser/static/media/welcomeImage4.61d6f8ea.webp"
   },
   "entrypoints": [
-    "static/js/runtime-main.5da06236.js",
+    "static/js/runtime-main.1cbdb1de.js",
     "static/js/2.84f65f5c.chunk.js",
     "static/css/main.434ac450.chunk.css",
-    "static/js/main.c7b69d12.chunk.js"
+    "static/js/main.bd7b2f5b.chunk.js"
   ]
 }

@@ -1,2 +1,0 @@
-(this["webpackJsonpproyecto-personal"]=this["webpackJsonpproyecto-personal"]||[]).push([[10],{88:function(p,e,s){"use strict";s.r(e),e.default=s.p+"static/media/map.e1db5317.webp"}}]);
-//# sourceMappingURL=10.c47fc4bd.chunk.js.map
