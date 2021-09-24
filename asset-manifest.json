@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/proyecto-hairdresser/static/css/main.6ae1fc51.chunk.css",
-    "main.js": "/proyecto-hairdresser/static/js/main.e8f8e0eb.chunk.js",
-    "main.js.map": "/proyecto-hairdresser/static/js/main.e8f8e0eb.chunk.js.map",
+    "main.js": "/proyecto-hairdresser/static/js/main.f87ff4fe.chunk.js",
+    "main.js.map": "/proyecto-hairdresser/static/js/main.f87ff4fe.chunk.js.map",
     "runtime-main.js": "/proyecto-hairdresser/static/js/runtime-main.37ddf3aa.js",
     "runtime-main.js.map": "/proyecto-hairdresser/static/js/runtime-main.37ddf3aa.js.map",
     "static/js/2.84f65f5c.chunk.js": "/proyecto-hairdresser/static/js/2.84f65f5c.chunk.js",
@@ -51,6 +51,6 @@
     "static/js/runtime-main.37ddf3aa.js",
     "static/js/2.84f65f5c.chunk.js",
     "static/css/main.6ae1fc51.chunk.css",
-    "static/js/main.e8f8e0eb.chunk.js"
+    "static/js/main.f87ff4fe.chunk.js"
   ]
 }
