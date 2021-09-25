@@ -7,13 +7,13 @@
     "main.css": "/proyecto-hairdresser/static/css/main.410b7dbc.chunk.css",
     "main.js": "/proyecto-hairdresser/static/js/main.629d0d0e.chunk.js",
     "main.js.map": "/proyecto-hairdresser/static/js/main.629d0d0e.chunk.js.map",
-    "runtime-main.js": "/proyecto-hairdresser/static/js/runtime-main.2e6c54b0.js",
-    "runtime-main.js.map": "/proyecto-hairdresser/static/js/runtime-main.2e6c54b0.js.map",
+    "runtime-main.js": "/proyecto-hairdresser/static/js/runtime-main.26864a66.js",
+    "runtime-main.js.map": "/proyecto-hairdresser/static/js/runtime-main.26864a66.js.map",
     "static/js/4.93028c77.chunk.js": "/proyecto-hairdresser/static/js/4.93028c77.chunk.js",
     "static/js/4.93028c77.chunk.js.map": "/proyecto-hairdresser/static/js/4.93028c77.chunk.js.map",
     "static/css/5.51f8c866.chunk.css": "/proyecto-hairdresser/static/css/5.51f8c866.chunk.css",
-    "static/js/5.3344250c.chunk.js": "/proyecto-hairdresser/static/js/5.3344250c.chunk.js",
-    "static/js/5.3344250c.chunk.js.map": "/proyecto-hairdresser/static/js/5.3344250c.chunk.js.map",
+    "static/js/5.d49d8f7d.chunk.js": "/proyecto-hairdresser/static/js/5.d49d8f7d.chunk.js",
+    "static/js/5.d49d8f7d.chunk.js.map": "/proyecto-hairdresser/static/js/5.d49d8f7d.chunk.js.map",
     "static/css/6.1ffb256a.chunk.css": "/proyecto-hairdresser/static/css/6.1ffb256a.chunk.css",
     "static/js/6.8e2657d3.chunk.js": "/proyecto-hairdresser/static/js/6.8e2657d3.chunk.js",
     "static/js/6.8e2657d3.chunk.js.map": "/proyecto-hairdresser/static/js/6.8e2657d3.chunk.js.map",
@@ -62,7 +62,7 @@
     "static/media/welcomeImage4.61d6f8ea.webp": "/proyecto-hairdresser/static/media/welcomeImage4.61d6f8ea.webp"
   },
   "entrypoints": [
-    "static/js/runtime-main.2e6c54b0.js",
+    "static/js/runtime-main.26864a66.js",
     "static/js/4.93028c77.chunk.js",
     "static/css/main.410b7dbc.chunk.css",
     "static/js/main.629d0d0e.chunk.js"
